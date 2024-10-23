@@ -1,0 +1,13 @@
+
+#pascal case
+#all letters for each word begin with a capital letter
+#underscores are not allowed
+#no spaces are allowed
+
+StudentName = "Whitney Josephin"
+StudentAge = "20"
+StudentRegNumber = "2024/DSC/1128/SS"
+print(StudentName)
+print(StudentAge)
+print(StudentRegNumber)
+

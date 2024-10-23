@@ -1,0 +1,35 @@
+#DATA TYPES
+#Integer
+#this doesn't work with decimal points
+#age=20
+#average_mark=85
+#temperature=22
+
+#strings("",'')
+name = "Josephin"
+current_school = "witi"
+message = "Hello world"
+day = "Thursday"
+
+#floats
+#these work with decimal points
+#they also work with negatives and positives
+x = 95.50
+weight = 40.5
+
+#Booleans
+#control flow statements
+#check a vary is true or false
+active = True
+inactive = False
+
+#type()
+height = "37.9"
+print(type(height))
+print(type(active))
+print(type(x))
+
+
+
+
+

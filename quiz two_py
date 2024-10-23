@@ -1,0 +1,38 @@
+#Write a programm that takes two numbers as input and displays their sum, their difference and their product and their quotient
+# Write a programm that compares two integers and prints the first number is greater than, less than, or equal to the second number
+
+
+#ANSWERS
+#For sum(+)
+number_one=int(input("Enter the first number"))
+number_two=int(input("Enter the second number"))
+sum=(number_one+number_two)
+print(f"The sum of{number_one} and {number_two}")
+
+#For difference(-)
+difference=(number_one- number_two)
+print(f"The difference of{number_one} and {number_two}")
+
+#For division(/)
+division=(number_one/number_two)
+print(f"The division of {number_one} and {number_two}")
+
+#For multiplication(*)
+multiplication=(number_one * number_two)
+print(f"The multiplication of {number_one} and {number_two}")
+
+#For modulus(%)
+modulus=(number_one % number_two)
+print(f"The modulus of {number_one} and {number_two}")
+
+#for floor division(//)
+floor_division=(number_one // number_two)
+print(f"The floor")
+
+
+
+
+
+
+
+      

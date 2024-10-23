@@ -1,0 +1,17 @@
+#assignment operators
+#can be used to assign variables inform of calculations
+sum =5
+sum+=5
+print(sum)
+
+#Given that we have two products, a laptop and a mouse such that the price of a laptop is 300000 and the one of a mouse is 50000
+# , use a forloop to find the total sum of the product
+laptop= 300000
+mouse= 50000
+sum =0
+product_prices =[laptop,mouse,70000]
+for price in product_prices:
+    sum+=price
+print(f"The total_sum of the product is:{sum:,}") #-----when the sum=0 is placed in the loop state, it only brings the last total_cost
+total_cost = laptop
+total_cost += mouse

@@ -1,0 +1,13 @@
+
+#we don't use underscores
+#the first letter are in lower case and the first letter inthe second word are in upper case
+#we don't leave any space
+
+#camel case
+studentName = "whtitney"
+studentAge = "20"
+studentRegNumber = "2024/DSC/1128/SS"
+courseUnit = "computer science"
+print(studentName)
+print(studentAge)
+print(studentRegNumber)
